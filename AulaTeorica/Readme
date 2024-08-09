@@ -1,0 +1,26 @@
+## Aula 01 C++ -> Teste das instalções
+- Tutoriais para configurar o ambiente (1 min)
+  - Install MinGW Compilator -> https://www.youtube.com/watch?v=1jzz4ds6ccE&t=6s
+  - Execute the first code with MakeFile -> https://www.youtube.com/watch?v=9XzdkX5QMv8
+
+## Aula 02 C++ -> Estruturação
+- Comentários
+  - Linha única // 
+  - Em blocos /**/
+  - Para documentação /** */
+- Estrutura do código
+  - Exemplo com duas funções
+
+## Aula 03 C++ -> Tipos Primitivos de Dados
+- char, int, float, double, bool, string
+
+## Aula 04 C++ -> Controle de Fluxo
+- Entrada e Saída
+- Condicional
+- Laço de repetição
+
+## Aula 05 c++ -> Funções
+
+
+## Referência
+- cplusplus.com
